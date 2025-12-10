@@ -459,14 +459,14 @@ func StartExpirationService(db *gorm.DB) {
 
 ## 👨‍💻 Автор
 
-**Дипломная работа**  
+**Мухамедов М.М. для ВКР**  
 Тема: «Автоматизация документооборота высшего учебного заведения»
 
 ---
 
 ## 📄 Лицензия
 
-MIT License © 2024 Synergy University
+MIT License
 
 ---
 
